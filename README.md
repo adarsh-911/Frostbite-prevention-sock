@@ -1,6 +1,6 @@
 # Frostbite prevention sock
 
-Status : Unfinished
+Status : In progress
 ## About
 Design of a compact (5cm x 4cm) PCB to monitor and control analog temperature sensors and a heating element with Bluetooth capability
 
