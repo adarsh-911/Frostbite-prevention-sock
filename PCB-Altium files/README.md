@@ -17,7 +17,8 @@ The PCB is designed as a 4-layer board with a custom stack-up derived from the r
 Trace widths are carefully calculated to achieve the desired 50 Ω transmission line impedance for the RF signals. 
 All components are placed following recommended layout guidelines to ensure optimal performance. 
 Appropriate decoupling capacitors are selected to minimize parasitic effects, and through-hole vias are distributed across the board to reduce return path distances.
-![Layout](layout.png)
 
-## Debugging
+![Layout](layout.png){ width=300px }
+
+## Flashing and debugging
 A Tag-Connect (TC-2030) programming connector is used to conserve space on the board. It interfaces with an SWD debugger (such as an ST-LINK) for flashing firmware onto the microcontroller.
